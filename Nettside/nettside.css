@@ -20,9 +20,11 @@
 }
 
 h1 {
-    position: absolute;
-    top: 65px;
-    left: 460px;
+    width: 20em;
+    text-align: center;
+    margin-top: 65px;
+    margin-left: auto;
+    margin-right: auto;
     color: lightskyblue;
 }
 
@@ -42,5 +44,5 @@ object,
 video {
     position: relative;
     max-width: 100%;
-    top: 142px;
+    top: 22px;
 }
